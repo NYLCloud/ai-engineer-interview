@@ -14,7 +14,6 @@ A FastAPI-based user management service for handling user data and preferences.
 1. **Clone the repository**
    ```bash
    git clone https://github.com/NYLCloud/ai-engineer-interview.git
-   cd ai-engineer-assessment
    ```
 
 2. **Create and activate a virtual environment**
